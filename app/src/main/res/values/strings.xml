@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">encryptFiles</string>
+    <string name="scan_available_files">Scan available files</string>
+    <string name="decrypt_file">Decrypt file</string>
+</resources>
